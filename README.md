@@ -48,9 +48,9 @@ const ammar = {
     "AI Agentic Systems"
   ]
 };
+```
 
+## 📬 Connect with Me
 
-📬 Connect with Me
-💼 LinkedIn: [Ammar Daana](https://www.linkedin.com/in/ammar-daana-662716185/)
-
-📧 Email: ammarsufian60@gmail.com
+* **💼 LinkedIn:** [Ammar Daana ](https://www.linkedin.com/in/ammar-daana-662716185/)
+* **📧 Email:** [ammarsufian60@gmail.com](mailto:ammarsufian60@gmail.com)
