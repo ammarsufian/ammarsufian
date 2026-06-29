@@ -28,8 +28,8 @@ const ammar = {
   technologies: [
     "Laravel",
     "Symfony",
+    "Node.js",
     "CakePHP",
-    "Vue.js",
     "React",
     "AWS SAM"
   ],
